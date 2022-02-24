@@ -6,3 +6,6 @@ Some plain text
 
 
 Watch 
+
+git status
+git add .
