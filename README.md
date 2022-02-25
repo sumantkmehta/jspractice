@@ -26,3 +26,6 @@ git checkout main // switch to main branch
 
 git diff featurebranch // shows difference b/w two version of codes
 git merge featurebranch
+
+
+...
